@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="ro">
 <head>
-    <title>Universitate</title>
     <meta charset="UTF-8">
     <meta name="author" content="Catalin">
     <link rel="stylesheet" href="style-index.css">
