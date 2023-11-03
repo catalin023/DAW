@@ -52,7 +52,7 @@
         </div>
         <div>
             <h3>Diagrama conceptuala</h3>
-            <div class="img"><img src="./baza.jpg" alt=""></div>
+            <div class="img"><img src="./proiectDAW/baza.jpg" alt=""></div>
         </div>
     </main>
 </body>
