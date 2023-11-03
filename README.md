@@ -57,4 +57,5 @@
     </main>
 </body>
 </html>
-!(./proiectDAW/baza.jpg)
+![baza](https://github.com/catalin023/DAW/assets/119136775/125e3275-67ff-4f14-9a99-48a64e1f2380)
+
